@@ -4,7 +4,7 @@ This repository contains the solutions to the EGIER warehouse capacity analysis 
 1. Finding the Production Trend (Problem 1):
 - Fitting a polynomial regression model to the monthly production data to identify the trend.
 - Avoiding a linear approach by using a polynomial of degree 3 for better accuracy.
-- 
+  
 2. Converting the Mathematical Model to Numerical Form (Problem 2):
 - Converting the polynomial model from Problem 1 into its numerical form using the Taylor Series.
 - Providing an explanation about the accuracy of the conversion.
